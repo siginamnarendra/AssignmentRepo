@@ -23,7 +23,7 @@ public class UserInterface {
 			switch(option)
 			{
 				 case 1:
-				 System.out.println("Enter your Name");
+				 System.out.println("Enter your Name :");
 				 String name=sc.next();
 				 System.out.println("Enter your ParentID");
 				 long ParentID=sc.nextLong();
